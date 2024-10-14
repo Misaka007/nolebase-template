@@ -2,13 +2,13 @@
 layout: home
 sidebar: false
 
-title: Nólëbase
-titleTemplate: 记录回忆，知识和畅想的地方
+title: Wisdom Workshop
+titleTemplate: 制造智慧的工作坊
 
 hero:
   name: g~Nj$3J2^
-  text: 记录回忆，知识和畅想的地方
-  tagline: 以 Nólëbase 为名，读作 nole-base，取自意为「知识」的昆雅语 nólë 和意为「基础」的英文 base，即「知识库」
+  text: 制造智慧的工作坊
+  tagline: 智慧工坊 / Wisdom Workshop 的含义是一个集知识、实践和创新于一体的地方。在这里，我们可以深入学习、自由探索、并通过实践和应用来提升的智慧和技能。
   image:
     src: /logo.svg
     alt: Vitest
